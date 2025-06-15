@@ -1,31 +1,31 @@
 {
   "introduction": {
     "title": "Introduction",
-    "content": "Passionate Full Stack Developer with 5+ years of experience in build"
+    "content": "TALK IS CHEAP. SHOW ME THE CODE."
   },
   "publications": {
     "title": "Publications",
     "items": [
       {
-        "title": "Modern Web Architecture Patterns",
-        "publisher": "IEEE Software Engineering Journal",
-        "year": "2023",
-        "description": "An in-depth analysis of modern web architecture patterns and their impact on scalability and performance.",
-        "reference": "DOI: 10.1109/MS.2023.1234567"
+        "title": "Enhancing diversity for data-free quantization",
+        "publisher": "CVPR ",
+        "year": "2025",
+        "description": "ORAL,Co-first author",
+        "reference": "https://cvpr.thecvf.com/virtual/2025/poster/33597"
       },
       {
-        "title": "Cloud-Native Application Development",
-        "publisher": "Cloud Computing Magazine",
-        "year": "2022",
-        "description": "A comprehensive guide to building and deploying cloud-native applications using modern tools and practices.",
-        "reference": "Vol. 15, Issue 4, pp. 45-52"
+        "title": "Noise Matters: Cross Contrastive Learning for Flink Anomaly Detection",
+        "publisher": "VLDB",
+        "year": "2025",
+        "description": "First author",
+        "reference": "https://dl.acm.org/doi/10.14778/3717755.3717773"
       },
       {
-        "title": "Microservices Security Best Practices",
-        "publisher": "Security Weekly",
-        "year": "2022",
-        "description": "A detailed exploration of security patterns and best practices in microservices architecture.",
-        "reference": "Security Weekly Journal, 2022 Edition"
+        "title": "Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning",
+        "publisher": "SIGKDD",
+        "year": "2025",
+        "description": "Second author",
+        "reference": "https://doi.org/10.1145/3711896.3737174"
       }
     ]
   },
@@ -33,37 +33,27 @@
     "title": "Experience",
     "items": [
       {
-        "title": "Senior Software Engineer",
-        "company": "TechCorp",
-        "period": "2021 - Present",
+        "title": "Research Intern",
+        "company": "Alibaba Cloud",
+        "period": "2023 - 2024",
         "achievements": [
-          "Led a team of 5 developers in building a cloud-native e-commerce platform",
-          "Implemented microservices architecture using Node.js and Docker",
-          "Reduced system latency by 40% through optimization and caching strategies",
-          "Mentored junior developers and conducted code reviews"
+          "Using AI to assist in anomaly detection and prediction, achieving a better accuracy rate",
+          "Using agent to assist the root cause analysis"
         ]
       },
       {
-        "title": "Full Stack Developer",
-        "company": "InnoSoft",
-        "period": "2019 - 2021",
+        "title": "AI Engineer Intern",
+        "company": "Meituan",
+        "period": "2024 - 2024",
         "achievements": [
-          "Developed and maintained multiple client-facing web applications",
-          "Built RESTful APIs using Express.js and MongoDB",
-          "Implemented CI/CD pipelines using Jenkins and GitHub Actions",
-          "Increased test coverage from 60% to 90%"
+          "Accerlerating the large-scale programing problem with 20x speedup"
         ]
       },
       {
-        "title": "Junior Developer",
-        "company": "StartUp Inc",
-        "period": "2018 - 2019",
-        "achievements": [
-          "Contributed to the development of a SaaS platform",
-          "Implemented responsive UI components using React",
-          "Collaborated with UX team to improve user experience",
-          "Participated in daily stand-ups and sprint planning"
-        ]
+        "title": "AI Engineer",
+        "company": "Meituan",
+        "period": "2025 - Present",
+        "achievements": ["AI for financial"]
       }
     ]
   },
@@ -71,28 +61,16 @@
     "title": "Education",
     "items": [
       {
-        "degree": "Master of Computer Science",
-        "school": "Stanford University",
-        "period": "2016 - 2018",
-        "details": ["Specialized in Distributed Systems", "GPA: 3.8/4.0"]
+        "degree": "Master of Data Science",
+        "school": "East China Normal University",
+        "period": "2022 - 2025",
+        "details": ["Specialized in AI", "Outstanding Graduates of Shanghai"]
       },
       {
-        "degree": "Bachelor of Software Engineering",
-        "school": "MIT",
-        "period": "2012 - 2016",
-        "details": [
-          "Major in Software Engineering",
-          "Minor in Artificial Intelligence"
-        ]
-      },
-      {
-        "degree": "Professional Certifications",
-        "school": "Industry Recognition",
-        "details": [
-          "AWS Certified Solutions Architect",
-          "Google Cloud Professional",
-          "MongoDB Certified Developer"
-        ]
+        "degree": "Bachelor of Data Science",
+        "school": "Zhejiang University of Technology",
+        "period": "2018 - 2022",
+        "details": ["GPA: 3.87/5.0, ranking 1/30"]
       }
     ]
   },
@@ -100,42 +78,24 @@
     "title": "Skills",
     "items": [
       {
-        "category": "Frontend Development",
+        "category": "Programming Languages",
         "technologies": [
-          "React",
-          "Vue.js",
-          "Next.js",
-          "TypeScript",
-          "Tailwind CSS",
-          "Webpack",
-          "JavaScript ES6+"
-        ]
-      },
-      {
-        "category": "Backend Development",
-        "technologies": [
-          "Node.js",
-          "Express.js",
           "Python",
-          "Django",
-          "RESTful APIs",
-          "GraphQL",
-          "MongoDB",
-          "PostgreSQL"
+          "Java",
+          "Go",
+          "Rust",
+          "Javascript",
+          "React.js",
+          "Vue.js"
         ]
       },
       {
-        "category": "DevOps & Cloud",
-        "technologies": [
-          "Docker",
-          "Kubernetes",
-          "AWS",
-          "Google Cloud",
-          "CI/CD",
-          "Jenkins",
-          "GitHub Actions",
-          "Terraform"
-        ]
+        "category": "Artificial Intelligence",
+        "technologies": ["AI+", "pytorch", "transformers", "etc"]
+      },
+      {
+        "category": "Others",
+        "technologies": ["Games: Valorant;CF", "Nature Photography(Nikon z62)"]
       }
     ]
   }
