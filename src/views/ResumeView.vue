@@ -53,7 +53,9 @@
             >
                 <h1
                     class="text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 dark:from-purple-400 dark:to-pink-500 bg-clip-text text-transparent mb-3 sm:mb-4"
-                ></h1>
+                >
+                  Publications
+                </h1>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
                     <div
                         v-for="(pub, index) in resumeData.publications.items"
